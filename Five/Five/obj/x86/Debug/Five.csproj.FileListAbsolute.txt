@@ -1,0 +1,11 @@
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\MainWindow.baml
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\MainWindow.g.cs
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\App.g.cs
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\Five_MarkupCompile.cache
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\Five.g.resources
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\Five.Properties.Resources.resources
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\Five.csproj.GenerateResource.Cache
+D:\Work\C#\Temp\Five\Five\bin\Debug\Five.exe
+D:\Work\C#\Temp\Five\Five\bin\Debug\Five.pdb
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\Five.exe
+D:\Work\C#\Temp\Five\Five\obj\x86\Debug\Five.pdb
